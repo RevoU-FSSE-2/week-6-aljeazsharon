@@ -23,7 +23,5 @@
     ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/11.png?raw=true)
 
  5. Verify the installation with CMD or Powershell by write a command
-    ```
-   docker --version
-   ```
+    ```docker --version```
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/12.png?raw=true)
