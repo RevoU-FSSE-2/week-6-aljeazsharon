@@ -6,4 +6,7 @@
 
 ### Install Docker on Your Machine
 1. Download the [Docker for Windows](https://www.docker.com/products/docker-desktop/) Installation from the official Website.
-2. 
+   ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/01.png?raw=true)
+   ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/02.png?raw=true)
+
+ 2. 
