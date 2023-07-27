@@ -4,9 +4,26 @@
 
 ## This week assignment is about Docker with Node.Js with deliverables simple node.js project can be run inside docker container.
 
-### Install Docker on Your Machine
+### Setting Up Docker on Your Machine
 1. Download the [Docker for Windows](https://www.docker.com/products/docker-desktop/) Installation from the official Website.
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/01.png?raw=true)
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/02.png?raw=true)
 
- 2. 
+ 2. Install and configure the Docker Desktop.
+    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/03.png?raw=true)
+    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/04.png?raw=true)
+    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/05.png?raw=true)
+    
+ 3. On Your Windows Machine, Docker Desktop will requires a newer WSL kernel version.
+    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/07.png?raw=true)
+    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/08.png?raw=true)
+   
+ 4. Create Docker Account (if you don't have one) or You can Login (If you have Docker Account)
+    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/10.png?raw=true)
+    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/11.png?raw=true)
+
+ 5. Verify the installation with CMD or Powershell by write a command
+    ```
+   docker --version
+   ```
+   ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/12.png?raw=true)
