@@ -28,4 +28,4 @@
 
 ### Set up Node.Js Project
 
-1. Download the simple node.js project from (https://gist.github.com/berdoezt/e51718982926f0caa3fcd8ed45111430)
+1. Download the simple node.js project from https://gist.github.com/berdoezt/e51718982926f0caa3fcd8ed45111430
