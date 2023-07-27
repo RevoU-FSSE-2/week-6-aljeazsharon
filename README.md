@@ -37,12 +37,14 @@
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/13.png?raw=true)
 
 ```
-FROM must be the first instruction in a Dockerfile. The FROM instruction initializes a new build stage and sets the base image for subsequent instructions.
-The WORKDIR instruction sets the working directory for any instructions (RUN, CMD, COPY, ADD, and ENTRYPOINT) in the following Dockerfile.
-The COPY instruction copies new files or directories and adds them to the file system of the container path.
-The RUN instruction will execute any commands in a new layer on top of the current image and commit the result.
-The EXPOSE instruction tells Docker that the container listens on the specified network ports at runtime.
-The CMD instruction specifies the command to run when a container is launched.
+1. FROM must be the first instruction in a Dockerfile.
+   The FROM instruction initializes a new build stage and sets the base image for subsequent instructions.
+2. The WORKDIR instruction sets the working directory for any instructions
+   (RUN, CMD, COPY, ADD, and ENTRYPOINT) in the following Dockerfile.
+3. The COPY instruction copies new files or directories and adds them to the file system of the container path.
+4. The RUN instruction will execute any commands in a new layer on top of the current image and commit the result.
+5. The EXPOSE instruction tells Docker that the container listens on the specified network ports at runtime.
+6. The CMD instruction specifies the command to run when a container is launched.
 ```
 
 ### Build Docker Image
@@ -52,7 +54,7 @@ The CMD instruction specifies the command to run when a container is launched.
 3. Run Container ```docker run -p 3002:3001 week6``` (-p: to publish or expose port)
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/17.png?raw=true)
 
-   
+
 4. Result
    
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/18.png?raw=true)
