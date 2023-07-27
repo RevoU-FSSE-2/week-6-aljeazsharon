@@ -30,5 +30,18 @@
 
 1. Download the simple node.js project from https://gist.github.com/berdoezt/e51718982926f0caa3fcd8ed45111430
 2. Use Visual Studio Code to make a Dockerfile and package.json
+   ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/13.png?raw=true)
+
+```
+FROM must be the first instruction in a Dockerfile. The FROM instruction initializes a new build stage and sets the base image for subsequent instructions.
+WORKDIR instrustion sets the working directory for any instructions (RUN, CMD, COPY, ADD & ENTRYPOINT) in that follow Dockerfile.
+COPY instruction copies new file or directory from and add them to file system of the container path.
+RUN instruction will execute any commands in a new layer on top of the current image and commit the result.
+EXPOSE instruction tell Docker that the container listens on the specified network ports at runtime.
+CMD instruction specifies the command to run when a container is launched.
+```
+
+### Build Docker Image
+1. write ```docker build -t week6``` (-t : nametag) on CMD or Terminal.
    
-4. 
+3. 
