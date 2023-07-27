@@ -44,4 +44,4 @@ CMD instruction specifies the command to run when a container is launched.
 ### Build Docker Image
 1. write ```docker build -t week6``` (-t : nametag) on CMD or Terminal.
    
-3. 
+2. Run Container 
