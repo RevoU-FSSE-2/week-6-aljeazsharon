@@ -4,4 +4,5 @@
 
 ## This week assignment is about Docker with Node.Js with deliverables simple node.js project can be run inside docker container.
 
-###
+### Install Docker on Your Machine
+1. Download the [Docker for Windows](https://www.docker.com/products/docker-desktop/) Installation from the official Website
