@@ -1,0 +1,14 @@
+{
+    "name": "simple-docker",
+    "version": "1.0.0",
+    "description": "Simple node.js project inside docker container (Assignment for Week 6)",
+    "author": "Sharon Silalahi <aljeazsharon@gmail.com>",
+    "main": "app.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
