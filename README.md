@@ -29,8 +29,11 @@
 ### Set up Node.Js Project
 
 1. Download the simple node.js project from https://gist.github.com/berdoezt/e51718982926f0caa3fcd8ed45111430
+
    
 2. Use Visual Studio Code to make a Dockerfile and package.json
+
+   
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/13.png?raw=true)
 
 ```
