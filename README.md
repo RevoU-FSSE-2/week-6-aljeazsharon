@@ -48,6 +48,8 @@ The CMD instruction specifies the command to run when a container is launched.
    
 3. Run Container ```docker run -p 3002:3001 week6``` (-p: to publish or expose port)
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/17.png?raw=true)
+
    
 4. Result
+   
    ![alt text](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/blob/main/assets/18.png?raw=true)
