@@ -1,4 +1,4 @@
-![image](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/assets/25450018/62de02b3-970f-40fb-9e9e-d24e91a28a64)![image](https://github.com/RevoU-FSSE-2/week-6-aljeazsharon/assets/25450018/4d3c1287-8fc0-48c8-8e4a-3018f3993d4a)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nj7iw4Wb)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nj7iw4Wb)
 
 # Individual Assignment Week 06
 
